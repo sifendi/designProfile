@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">Profile UI</string>
-
+    <string name="app_names">Afendi</string>
     <string name="twitterUsername">\@houseofit</string>
 </resources>
